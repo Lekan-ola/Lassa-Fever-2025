@@ -3,16 +3,19 @@
 ## Table of Content
 - [Project Overview](project-overview)
 - [Key Features](key-features)
-- [Repository Contents](repository-Contents)
-- [Tools Used](Tools-Used)
-- [Data Source](Data-Source)
-- [About Me](About-Me)
+- [Repository Contents](repository-contents)
+- [Tools Used](tools-used)
+- [Data Source](data-source)
+- [About Me](about-me)
   
 ## Project Overview
 This project analyzes Nigeria’s 2025 Lassa Fever outbreak using **Nigeria Centre for Disease Control (NCDC) Situation Reports**. The Tableau dashboard includes state-level and geospatial insights on cases, deaths, and case fatality rates. The dashboard is updated regularly as new data becomes available.
 
  **Interactive Dashboard on Tableau Public (Live):**  
  [View Latest Dashboard](https://public.tableau.com/app/profile/olalekan.igboroodowo/viz/LassaFever2025/LassaFever)
+
+<img width="999" height="749" alt="Lassa Fever (1)" src="https://github.com/user-attachments/assets/d6742b99-8afe-4648-9582-9d3fe5387936" />
+
 
 ---
 
